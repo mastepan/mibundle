@@ -1,0 +1,8 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Jan 08 15:44:26 CET 2015
+camel-activemq-router-1.0.jar>=
+camel-activemq-router-1.0.pom.md5>=
+camel-activemq-router-1.0.jar.md5>=
+camel-activemq-router-1.0.pom>=
+camel-activemq-router-1.0.pom.sha1>=
+camel-activemq-router-1.0.jar.sha1>=
